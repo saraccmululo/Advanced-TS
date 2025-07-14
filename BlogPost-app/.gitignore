@@ -1,0 +1,39 @@
+# dependencies
+node_modules/
+
+# production
+dist/
+
+# local env files
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Coverage reports
+coverage/
+
+# Caches
+.cache/
+.eslintcache
+
+# Prettier
+.prettier*
+
+# Certificates
+*.pem
